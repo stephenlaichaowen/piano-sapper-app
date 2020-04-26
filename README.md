@@ -6,7 +6,7 @@ Clone this repo and and place under `sapper-app` directory
 
 Change directory 
 ```
-cd password-strength-meter-sapper-app
+cd piano-sapper-app
 ```
 
 Install all the dependencies
